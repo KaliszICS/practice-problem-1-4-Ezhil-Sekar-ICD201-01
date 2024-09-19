@@ -1,4 +1,9 @@
-
+'''
+    Lesson: Input and F strings
+    Author: Ezhil S.
+    Date Created: Sept 19, 2024
+    Date Last Modified: Spet 19, 2024
+'''
 
 def q1():
   #Write Assignment code here
