@@ -6,19 +6,19 @@ def q1():
   print(user)
 def q2():
   #Write Assignment code here
-  user2 = "Input your first name: "
+  user2 = input("Input your first name: ")
   print("Hello "+user2)
 def q3():
   #Write Assignment code here
-  user3 = "Input your first name: " 
-  user4 = "Input your last name:"
-  print(f"{user4}{user3}") 
+  user3 = input("Input your first name: ") 
+  user4 = input("Input your last name:")
+  print(f"{user4} {user3}") 
 
 def q4():
   #Write Assignment code here
-  student = "Input a student: "
-  student2 = "Input another student: "
-  "Your students are {student} and {student2}"
+  student = input("Input a student: ")
+  student2 = input("Input another student: ")
+  print(f"Your students are {student} and {student2}")
 #Do not edit code below this comment
 
 q1()
