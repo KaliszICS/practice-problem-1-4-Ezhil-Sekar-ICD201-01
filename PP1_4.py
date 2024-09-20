@@ -7,7 +7,7 @@
 
 def q1():
   #Write Assignment code here
-  user = input("Input a word:")
+  user = input("Input a word: ")
   print(user)
 def q2():
   #Write Assignment code here
@@ -16,7 +16,7 @@ def q2():
 def q3():
   #Write Assignment code here
   user3 = input("Input your first name: ") 
-  user4 = input("Input your last name:")
+  user4 = input("Input your last name: ")
   print(f"{user4} {user3}") 
 
 def q4():
